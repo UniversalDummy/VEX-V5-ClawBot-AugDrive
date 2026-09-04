@@ -4,7 +4,7 @@
 
 
 #### Created by Davis Hawkins
-#### Current Release: v2.0
+#### Current Release: v2.1
 #### Released: 9/04/2026
 
 ## Controlling The VEX V5 ClawBot
@@ -18,7 +18,7 @@ To change the current control scheme, press the button on the controller with th
 ## ClawBot Anti-Frame Strain
 The AugDrive program also limits strain on physical components, such as gears and motors.
 
-*In the current version, the limits are hard-coded. If you have trouble with the arm, switch to an earlier version without this safety feature OR remove the hard-coded limits from the program.*
+*In the current version, the limits are hard-coded. If you have trouble with the claw or arm, switch to an earlier version without this safety feature OR remove the hard-coded limits from the program.*
 
 ## Block Code
 Block code was used for development to make modifying code simple, easy, and straightforward.
