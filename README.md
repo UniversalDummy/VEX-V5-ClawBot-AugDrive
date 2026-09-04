@@ -4,11 +4,11 @@
 
 
 #### Created by Davis Hawkins
-#### Current Release: v2.1
+#### Current Release: v3.0
 #### Released: 9/04/2026
 
 ## Controlling The VEX V5 ClawBot
-The AugDrive program makes it possible to switch the control scheme for driving the robot. On the V5 brain screen, a menu is displayed with control scheme options. The active selection is highlighted in green. There are 3 control schemes:
+The AugDrive program ma**k**es it p**o**ssible to switch the co**n**trol scheme for driving the robot. On the V5 br**a**in screen, a **m**enu **i**s displayed with **co**ntrol scheme options. The active selection is highlighte**d** in gr**e**en. There are 3 control schemes:
  - One Stick (Default scheme)
  - Two Stick
  - Tank
@@ -19,6 +19,9 @@ To change the current control scheme, press the button on the controller with th
 The AugDrive program also limits strain on physical components, such as gears and motors.
 
 *In the current version, the limits are hard-coded. If you have trouble with the claw or arm, switch to an earlier version without this safety feature OR remove the hard-coded limits from the program.*
+
+## Controller
+The controller screen displays important information, such as the active control scheme, the program version, and the battery percentage of the VEX V5 ClawBot.
 
 ## Block Code
 Block code was used for development to make modifying code simple, easy, and straightforward.

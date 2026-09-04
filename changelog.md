@@ -1,12 +1,9 @@
-# VEX V5 ClawBot AugDrive v2.1 - Changelog
+# VEX V5 ClawBot AugDrive v3.0 - Changelog
 
+### Controller Changes
+The screen on the controller now displays important information about the VEX V5 ClawBot and controls.
+It now displays the active control scheme, the version number of AugDrive, and the battery percentage of the ClawBot.
+When the B button is pressed, "Ending Session..." now appears on the screen.
 
-### ClawBot Anti-Frame Strain
-The ClawBot arm now has a limit to how high or low it may move. This reduces the stress put on components such as gears and motors, resulting in less wear on the hardware.
-
-This limit is hard-coded. You may modify the code to change the limit or completely remove it if you have issues with the arm.
-
-### ClawBot Anti-Frame Strain (Improved - v2.1)
-The ClawBot claw now has a limit to how wide it may open and close. This reduces the stress put on components such as gears and motors, resulting in less wear on the hardware.
-
-This limit is hard-coded. You may modify the code to change the limit or completely remove it if you have issues with the claw.
+### VEX V5 ClawBot Changes
+The "Ending Session..." text is now centered.
